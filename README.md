@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="../src/assets/images/HomeApp.png" alt="Devsla" />  
+  <img src="src/assets/images/HomeApp.png" alt="Devsla" />  
 </div>
 
 <h1 align="center">Devsla</h1>
