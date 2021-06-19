@@ -35,7 +35,7 @@
 
 ## :dart: Sobre ##
 
-Sobre o seu projeto
+Interface desenvolvida no curso de HTML5 e CSS3 da B7web ministrado pelo professor Bonieky Lacerda.
 
 ## :rocket: Tecnologias ##
 
